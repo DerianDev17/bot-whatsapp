@@ -1,0 +1,5 @@
+/node_modules
+/bot_sessions
+/dockerfile
+/baileys.log
+/core.class.log

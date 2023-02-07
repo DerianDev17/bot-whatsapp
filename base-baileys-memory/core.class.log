@@ -1,0 +1,176 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939165719@s.whatsapp.net',
+    fromMe: false,
+    id: '3A649180A9CB37494EF4',
+    participant: undefined
+  },
+  messageTimestamp: 1675793479,
+  pushName: 'Derian',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593939165719'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939165719@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABB469389A8B9852778',
+    participant: undefined
+  },
+  messageTimestamp: 1675793485,
+  pushName: 'Derian',
+  message: Message {
+    conversation: 'Derian',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Derian',
+  from: '593939165719'
+}
+[handleMsg]:  {
+  messageStubParameters: [],
+  labels: [],
+  userReceipt: [],
+  reactions: [],
+  pollUpdates: [],
+  key: MessageKey {
+    remoteJid: '593984236068@s.whatsapp.net',
+    fromMe: false,
+    id: 'DEB7915D48D5C3C2FDAF39A46DC70D08'
+  },
+  messageTimestamp: Long { low: 1675795130, high: 0, unsigned: true },
+  messageStubType: 40,
+  body: undefined,
+  from: '593984236068'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984236068@s.whatsapp.net',
+    fromMe: false,
+    id: '47279FBDF6E93EAA3F05DC8CE2A82FEF',
+    participant: undefined
+  },
+  messageTimestamp: 1675795178,
+  pushName: 'Dias',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32499879_938778037487526_3103298254289601113_n.enc?ccb=11-4&oh=01_AdRR3L8QUOxiso7jw8dQ0dcPUS-71w2t1IIut_Zt5sSluA&oe=640A053C&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 43,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32499879_938778037487526_3103298254289601113_n.enc?ccb=11-4&oh=01_AdRR3L8QUOxiso7jw8dQ0dcPUS-71w2t1IIut_Zt5sSluA&oe=640A053C',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593984236068'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962007956@s.whatsapp.net',
+    fromMe: false,
+    id: 'AB966209230353B2873C8DC765ECA2C5',
+    participant: undefined
+  },
+  messageTimestamp: 1675796237,
+  pushName: '🌸❤️',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11931776_561153565966121_3133246095701505325_n.enc?ccb=11-4&oh=01_AdREznpCUk_m2t01d8jLawDhlZPleFBTPXmuvjhk5d7H4g&oe=640A1207&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Buenas tardes, le envío comprobante de pago de Kelin López.',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 629,
+      width: 375,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11931776_561153565966121_3133246095701505325_n.enc?ccb=11-4&oh=01_AdREznpCUk_m2t01d8jLawDhlZPleFBTPXmuvjhk5d7H4g&oe=640A1207',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593962007956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593998981268@s.whatsapp.net',
+    fromMe: false,
+    id: '4E25599F7607FEAC4C72BB40915C986F',
+    participant: undefined
+  },
+  messageTimestamp: 1675798084,
+  pushName: 'Helen🌻',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/56193105_2148205218900543_2636679665673011683_n.enc?ccb=11-4&oh=01_AdTUnhusBFSjG-uWjHOsxDEf7QVqBjiZnqLJkgMI2iIzcg&oe=640A02AC&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Buenas tardes, pago de este mes de Helen Tobar',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 3840,
+      width: 2160,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/56193105_2148205218900543_2636679665673011683_n.enc?ccb=11-4&oh=01_AdTUnhusBFSjG-uWjHOsxDEf7QVqBjiZnqLJkgMI2iIzcg&oe=640A02AC',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593998981268'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593993949576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2257278A6F3B08CCF1',
+    participant: undefined
+  },
+  messageTimestamp: 1675798604,
+  pushName: 'Hernán Garzón',
+  message: Message {
+    conversation: 'Buenas tardes, le estaba llamando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes, le estaba llamando',
+  from: '593993949576'
+}
