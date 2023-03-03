@@ -1,0 +1,7 @@
+/node_modules
+/bot_sessions
+/dockerfile
+/log
+/core.class.log
+/.wwebjs_auth/*
+/qr.svg
